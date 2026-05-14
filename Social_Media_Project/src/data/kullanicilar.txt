@@ -1,0 +1,8 @@
+zynpozkk|123456789|zeynepsevimozkok@gmail.com|Zeynep Sevim Özkök Bilgisayar Mühendisliği Öğrencisi|4
+Hkmtkfks|123456789|hikmetkafkas@gmail.com|Hikmet Kafkas|2
+Tbszn|123456789|tb@gmail.com|Tuğba Sezen Doktor|3
+kdryıldız|123456789|kadiryıldız@gmail.com|öğrenci|3
+emrebastimur|123456789|emre_bastimur@hotmail.com|empty flow|1
+enescakir|123456789|enescakir@gmail.com|enes 23|1
+ahmetkurt|123456789|ahmet@gmail.com|elazığ 23|0
+beyzaçlk|123456789|beyza@gmail.com|fırat üniversitesi veterinerlik fakületsi|0
